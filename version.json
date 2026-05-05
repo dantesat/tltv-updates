@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0.0",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v1.0.0/tltv-1.0.0.apk",
-  "changelogEs": "🎉 Versión inicial de TLTV Player",
-  "changelogEn": "🎉 Initial version of TLTV Player",
+  "latestVersionCode": 5,
+  "latestVersionName": "1.1.3",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v1.1.3/TLTVPlayer-release-v1.1.3.apk",
+  "changelogEs": "🎉 Versión 1.1.3\n\n• Fix: Recomendado para ti funciona\n• Fix: ANR en Fire Stick\n• Performance mejorado",
+  "changelogEn": "🎉 Version 1.1.3\n\n• Fix: Recommended for you works\n• Fix: ANR on Fire Stick\n• Better performance",
   "isMandatory": false
 }
