@@ -1,8 +1,6 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.1.5",
+  "versionCode": 8,
+  "versionName": "1.1.6",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "changelogEs": "🚀 Versión 1.1.5\n\n• Sistema OTA mejorado\n• Compatible con Downloader\n• Mejor performance Fire Stick\n• Distribución simplificada",
-  "changelogEn": "🚀 Version 1.1.5\n\n• Improved OTA system\n• Downloader compatible\n• Better Fire Stick performance\n• Simplified distribution",
-  "isMandatory": false
+  "releaseNotes": "🔥 v1.1.6: Buscador global, progreso de episodios, fix Fire Stick"
 }
