@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.8",
+  "versionCode": 11,
+  "versionName": "1.1.9",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "🚀 v1.1.8: Carga instant + audio estable + sync inteligente"
+  "releaseNotes": "🚀 v1.1.9: Actualizar por categoría + canales offline + favoritos mejorados"
 }
