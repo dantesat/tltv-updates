@@ -1,6 +1,6 @@
 {
   "versionCode": 13,
-  "versionName": "1.2.1-test",
+  "versionName": "1.2.1",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
   "releaseNotes": "Prueba OTA: validando descarga e instalacion desde Fire Stick.",
   "sha256": "22bcdb4798f54def225590997f4e9d97596aa01348e65cdf987955748a4f5458",
