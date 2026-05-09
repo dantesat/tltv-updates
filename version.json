@@ -1,9 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.2.1-test",
+  "versionCode": 14,
+  "versionName": "1.2.2",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "Prueba OTA release: APK firmado con keystore oficial.",
-  "sha256": "efc87b76d7dcc4950cfe54e9defacf765d67d370d11e848a22a6a78b5a38f02a",
-  "sizeBytes": 16704817,
-  "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+  "releaseNotes": "Perfil de Niños mejorado: PIN corregido, canales con mini reproductor y zapping estable en pantalla completa.",
+  "sha256": "d3d66daf33ef211eed07227087e7b1dc7669706d58287c8f40995329f240a7d2",
+  "sizeBytes": 16721193
 }
