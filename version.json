@@ -1,8 +1,9 @@
 {
-  "versionCode": 27,
-  "versionName": "1.4.1",
+  "versionCode": 28,
+  "versionName": "1.4.2",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.4.1: mejora deteccion 4K, evita falso error en canales y corrige limite de bitrate para IPTV.",
-  "sha256": "c9d0e1d8d6e2905bbe2731b33753b07f47e69a627aa3e94f44771d12a27f5493",
-  "sizeBytes": 4544972
+  "releaseNotes": "OTA 1.4.2: corrige teclado de busqueda en Peliculas, En Vivo, Series, Multi y login para Fire TV/Google TV.",
+  "sha256": "31a2fe18b7a9b610cfe71a7d6818ecdf39dc1f37d99668aed4c22e3671c40bf2",
+  "sizeBytes": 4545100,
+  "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
