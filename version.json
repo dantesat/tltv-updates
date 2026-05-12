@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "1.3.5",
+  "versionCode": 22,
+  "versionName": "1.3.6",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.3.5: PPV reorganizado; categorias de eventos salen de En Vivo y aparecen en PPV.",
-  "sha256": "a3bad70a47f634d893830e48d4454a3c38daae20e632019c6d9a49755c74d34e",
-  "sizeBytes": 4528603,
+  "releaseNotes": "OTA 1.3.6: buscador de peliculas corregido, timeline en peliculas/series, carpetas PPV en Multi y margen de carga extendido.",
+  "sha256": "341bd96c38477ea4ae3f64668c27c328d3193a6cec321e9496e67436b081a5e0",
+  "sizeBytes": 4545107,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
