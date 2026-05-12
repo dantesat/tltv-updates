@@ -1,9 +1,9 @@
 {
-  "versionCode": 28,
-  "versionName": "1.4.2",
+  "versionCode": 30,
+  "versionName": "1.4.4",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.4.2: corrige teclado de busqueda en Peliculas, En Vivo, Series, Multi y login para Fire TV/Google TV.",
-  "sha256": "31a2fe18b7a9b610cfe71a7d6818ecdf39dc1f37d99668aed4c22e3671c40bf2",
-  "sizeBytes": 4545100,
+  "releaseNotes": "OTA 1.4.4: corrige doble audio al abrir canales/PPV en pantalla completa pausando el mini reproductor.",
+  "sha256": "114f937afc17a025d15a354cb01f9d2489e4b9da21195077eba07bb03ea8a8f6",
+  "sizeBytes": 4545103,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
