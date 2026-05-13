@@ -1,9 +1,9 @@
 {
-  "versionCode": 31,
-  "versionName": "1.4.5",
+  "versionCode": 32,
+  "versionName": "1.4.6",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.4.5: agrega hero en TV en vivo con EPG y progreso, banners premium en Peliculas/Series y mejoras visuales.",
-  "sha256": "97b5b67ea783dfb85b9f81ec8c9c5f09e3eed2c93b033ec25b865c56d7bc219a",
-  "sizeBytes": 4594255,
+  "releaseNotes": "OTA 1.4.6: revierte banners en Peliculas, Series y En Vivo, y mejora la carga del catalogo TODO en Peliculas.",
+  "sha256": "0ebf8fcd78bf7ddc9705c3145b1510fbc3b4d587d67fd67ff4c4dc73042ad1d0",
+  "sizeBytes": 4545107,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
