@@ -1,9 +1,9 @@
 {
-  "versionCode": 30,
-  "versionName": "1.4.4",
+  "versionCode": 31,
+  "versionName": "1.4.5",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.4.4: corrige doble audio al abrir canales/PPV en pantalla completa pausando el mini reproductor.",
-  "sha256": "114f937afc17a025d15a354cb01f9d2489e4b9da21195077eba07bb03ea8a8f6",
-  "sizeBytes": 4545103,
+  "releaseNotes": "OTA 1.4.5: agrega hero en TV en vivo con EPG y progreso, banners premium en Peliculas/Series y mejoras visuales.",
+  "sha256": "97b5b67ea783dfb85b9f81ec8c9c5f09e3eed2c93b033ec25b865c56d7bc219a",
+  "sizeBytes": 4594255,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
