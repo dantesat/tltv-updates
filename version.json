@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "1.4.7",
+  "versionCode": 37,
+  "versionName": "1.6.0",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.4.7: mejora OK al primer toque en Fire TV/Google TV, agrega Favoritos y Recien visto en Canales, y corrige navegacion con control remoto.",
-  "sha256": "fad7381a06f3453b09fc6118f8cb3c397ece504eb380ec63a25a6c8fd50150ca",
-  "sizeBytes": 4561484
+  "releaseNotes": "OTA 1.6.0: mejoras de layout responsivo, navegacion movil/TV, estabilidad en Live/PPV y ajustes de catalogo.",
+  "sha256": "a00d505a0d2ead722cfc0df99d52ca6963a443e3eddef017fd90fec7e4f26bba",
+  "sizeBytes": 15384967
 }
