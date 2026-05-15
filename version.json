@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "1.7.0",
+  "versionCode": 41,
+  "versionName": "1.7.2",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.7.0: mejoras de estabilidad, navegacion TV/movil, busqueda, reproductor y catalogo.",
-  "sha256": "78208b41f61e6c4db7e4c1df4a1ee16c7371d134b1c68d6b96ea9de77ab5561c",
-  "sizeBytes": 15401344
+  "releaseNotes": "OTA 1.7.2: mejoras de estabilidad, PPV, canales, peliculas, series y navegacion TV.",
+  "sha256": "f5f02025221a3f5a0dbfa5ae9396c7c6f1c9d7611230623fe65b49e909ea5172",
+  "sizeBytes": 15401356
 }
