@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "1.7.4",
+  "versionCode": 44,
+  "versionName": "1.7.5",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.7.4: activa telemetria para portal admin, estadisticas de clientes y mejoras de historial por perfil.",
-  "sha256": "af650575b64c95d2fef85e9e49034a2e38c4e92ae422bd513cbdf0c1e353b6e9",
-  "sizeBytes": 15401372
+  "releaseNotes": "OTA 1.7.5: balanceo sticky de dominios oficiales por dispositivo, reparto de carga y fallback automatico si un servidor falla.",
+  "sha256": "c63bf6f4977ecd7fca443f42668f40e82602083c01d6cf4a7101c8eed51abf56",
+  "sizeBytes": 15401362
 }
