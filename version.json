@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
-  "versionName": "1.8.3",
+  "versionCode": 49,
+  "versionName": "1.8.4",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.8.3: actualiza cambios recientes, panel admin, telemetria y mejoras de estabilidad.",
-  "sha256": "2cbf2afc56a659c1d9291ea873518f085c613ea866f713ae53cb17f83bf197e0",
-  "sizeBytes": 15434122
+  "releaseNotes": "OTA 1.8.4: integra cambios recientes y mejoras en canales en vivo.",
+  "sha256": "5c65aedb242ac201e28f8c712b518003fe409a5d42fa68f35cca35dbc98edce4",
+  "sizeBytes": 15417743
 }
