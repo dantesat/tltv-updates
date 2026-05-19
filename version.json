@@ -1,9 +1,9 @@
 {
-  "versionCode": 51,
-  "versionName": "1.8.6",
+  "versionCode": 52,
+  "versionName": "1.8.7",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.8.6: corrige apertura de series desde Favoritos.",
-  "sha256": "c6d183e1352975757197e87f613115b7ac3f3c15e5d6586f05cbcffdb871a483",
+  "releaseNotes": "OTA 1.8.7: mejoras en login, controles del reproductor, timeline, detalles de peliculas por defecto, ratings en portadas y estabilidad del mini-player.",
+  "sha256": "a7a6cc6d1caf4f54e53a319d7df0cebf7c1a4f5988031ccb4b082fd9c6929d77",
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6",
-  "sizeBytes": 15434127
+  "sizeBytes": 15434133
 }
