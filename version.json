@@ -1,9 +1,9 @@
 {
-  "versionCode": 53,
-  "versionName": "1.8.8",
+  "versionCode": 54,
+  "versionName": "1.8.9",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.8.8: seguridad reforzada en actualizaciones, validacion de firma fija y versionCode del APK descargado.",
-  "sha256": "833baf994a2752eb3b43450088e95ac5f966841fb553bdd4bd2934e6d9da2856",
-  "sizeBytes": 15434119,
-  "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+  "releaseNotes": "OTA 1.8.9: endurecimiento de seguridad, validacion de firma propia, R8 fijo en release y sanitizacion de logs/telemetria.",
+  "sha256": "101142b6aa611388cf51f1eb06329e770941814cc3007bb079381822e584622d",
+  "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6",
+  "sizeBytes": 15434112
 }
