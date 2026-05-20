@@ -1,8 +1,8 @@
 {
-  "versionCode": 55,
-  "versionName": "1.8.10",
+  "versionCode": 56,
+  "versionName": "1.9.0",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.8.10: corrige reproduccion en pantalla completa desde mini reproductor usando ruta segura compatible para canales LIVE.",
-  "sha256": "0f60574866d51460c20399f1cdb4f443ce446ade2b9124762509f6b93a9f8605",
-  "sizeBytes": 15434123
+  "releaseNotes": "OTA 1.9.0: corrige reproduccion en pantalla completa desde mini reproductor usando ruta segura compatible para canales LIVE.",
+  "sha256": "e6ba155ed0cf3fa5382778313dc6cb27d348ef6d7ffde0273b389e673de6f04c",
+  "sizeBytes": 15434120
 }
