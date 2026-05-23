@@ -1,9 +1,9 @@
 {
-  "versionCode": 60,
-  "versionName": "1.9.4",
+  "versionCode": 61,
+  "versionName": "1.9.5",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "OTA 1.9.4: corrige crash de arranque en Fire OS y fallback de login cuando el backend seguro responde 502.",
-  "sha256": "3963904d3f901eb4cf0606bee0a22cee0f1cc0eeb75e2f5f5feeb6e02d0d8840",
-  "sizeBytes": 15309755,
-  "certSha256": "e082f7a38b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+  "releaseNotes": "OTA 1.9.5: corrige crash de arranque en Fire OS y fallback de login cuando el backend seguro responde 502.",
+  "sha256": "654b5311569eb145665c10297eb892c73b4add4659022f069599db8b5ecdc342",
+  "sizeBytes": 15309756,
+  "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
