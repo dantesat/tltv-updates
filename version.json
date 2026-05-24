@@ -1,9 +1,9 @@
 {
-  "versionCode": 75,
-  "versionName": "2.0.0",
+  "versionCode": 77,
+  "versionName": "2.0.2",
   "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "Release 2.0.0: agrega fallback directo a get_vod_info, mejora match TMDB para peliculas con anos 19xx y mantiene refresh rapido del Home.",
-  "sha256": "6a68647d91ed1ed57db4c3e7cdf99d9ab7e88631bb83a3c49acee438ff9f1740",
-  "sizeBytes": 15342528,
+  "releaseNotes": "Release 2.0.2: activa cast clicable con avatares en series usando creditos TMDB y filmografia de actor.",
+  "sha256": "20915ebafe1ec5f9651b65268de0902a257bf8c6b9ba308fa7a4a2865a06d7b9",
+  "sizeBytes": 15342529,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
