@@ -1,9 +1,9 @@
 {
-  "versionCode": 108,
-  "versionName": "2.0.5",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "Restaura el cursor segun origen al volver del player: lista u otras opciones en canales, boton Play en peliculas, y episodio/boton Play en series.",
-  "sha256": "a21a169bb25cb0b95e480194e9b7861fd05824b1c26a467fa2217b2cb0a506d9",
-  "sizeBytes": 15375299,
-  "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+    "versionCode":  109,
+    "versionName":  "2.0.6",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
+    "releaseNotes":  "Mejoras para celulares y emuladores: mantener presionado ahora funciona para ocultar o bloquear categorias y canales; se agrega respaldo automatico del historial de peliculas y series para conservar lo visto despues de actualizar; base de deteccion de dispositivo para futuras mejoras Android.",
+    "sha256":  "7ddf9825d5f3ab5bf3aaf10d516820c6f947f798951cf5c5bb9607140f9a0922",
+    "sizeBytes":  15375284,
+    "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
