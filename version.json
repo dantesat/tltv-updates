@@ -1,9 +1,9 @@
 {
-  "versionCode": 79,
-  "versionName": "2.0.4",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-  "releaseNotes": "Release 2.0.4: busqueda inteligente con autocorreccion local y expansion TMDB en ingles y espanol para peliculas y series.",
-  "sha256": "b4c87d9b783705508c4941b6c5da44bd1cb00f811a95125fb0fd18618ced64f6",
-  "sizeBytes": 15342526,
-  "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+    "versionCode":  107,
+    "versionName":  "2.0.32",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
+    "releaseNotes":  "Restaura el cursor segun origen al volver del player: lista u otras opciones en canales, boton Play en peliculas, y episodio/boton Play en series.",
+    "sha256":  "74e90f57f650239451ca48c8aa6d9e481612011269d2bae9cc3d80f7c545c174",
+    "sizeBytes":  15375294,
+    "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
