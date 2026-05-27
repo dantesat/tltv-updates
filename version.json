@@ -2,8 +2,8 @@
     "versionCode":  111,
     "versionName":  "2.0.8",
     "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
-    "releaseNotes":  "Ajuste de pantalla en celulares horizontales; PPV usa dos columnas para evitar botones cortados; En Vivo tiene header compacto y mejor proporcion de categorias, canales y preview; barra superior mas compacta en landscape",
-    "sha256":  "91f008cef4ba4034ebc2e9102ed133bcb655ff1c56a6c8fe309e9a49fed1e2b4",
+    "releaseNotes":  "Publicación automática OTA desde GitHub Actions",
+    "sha256":  "342d4c8451a89f0565922c992182ca2ec09f0b0850794a8c2f6339dce1bf72b3",
     "sizeBytes":  15391678,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
