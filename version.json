@@ -1,9 +1,9 @@
 {
-    "versionCode":  114,
-    "versionName":  "2.0.11",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "v2.0.11: panel admin en vivo con usuario real, tipo de dispositivo y modelo; mejoras de telemetria para ver clientes conectados.",
-    "sha256":  "793b3f26beb5bb26ba9ee81477421db9c613c12bc94e37e47a073f9c30ad7d5e",
-    "sizeBytes":  15391676,
+    "versionCode":  116,
+    "versionName":  "2.0.13",
+    "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
+    "releaseNotes":  "Hotfix Android 7: corrige crash al abrir PIN/perfiles en equipos sin PBKDF2 SHA-256. Incluye medicion de conexion en canales y mejoras del panel.",
+    "sha256":  "8c3edeeb050046a328796d12d2412df209224e872a51a8451d540b03bca1d671",
+    "sizeBytes":  15391669,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
