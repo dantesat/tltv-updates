@@ -1,9 +1,9 @@
 {
-    "versionCode":  117,
-    "versionName":  "2.0.14",
+    "versionCode":  118,
+    "versionName":  "2.0.15",
     "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
-    "releaseNotes":  "Fix Perfil de Ninos: corrige salto involuntario de Series a Peliculas al abrir categorias con el control Fire Stick. Mantiene hotfix Android 7 y metricas de conexion.",
-    "sha256":  "fac8290a01a3cf7d597ec995af490406442058d42899f61e40d83be3e5cca60a",
-    "sizeBytes":  15391664,
+    "releaseNotes":  "Agrega boton de aspecto en el reproductor: Original, Zoom y Full para llenar pantalla cuando el contenido trae barras negras.",
+    "sha256":  "07de85d7f20114616f44d22a6aa4e5d70fed9d2880ae9aa1848f2d1fb3697c01",
+    "sizeBytes":  15391680,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
