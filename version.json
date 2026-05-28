@@ -1,9 +1,9 @@
 {
-    "versionCode":  129,
-    "versionName":  "2.0.26",
+    "versionCode":  131,
+    "versionName":  "2.0.28",
     "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
-    "releaseNotes":  "v2.0.26: corrige crash por IDs duplicados en listas Lazy; mejora carga de episodios de series con fallback robusto.",
-    "sha256":  "e0ee10229f084d16711c9b0ead8d03c744740c3574cc4ddd80893570fcd299fa",
-    "sizeBytes":  15391670,
+    "releaseNotes":  "Mejoras en series: episodios enriquecidos con TMDB, imagen/nombre/fecha/sinopsis por capitulo y proximo estreno dentro de la lista de episodios.",
+    "sha256":  "2fa12eb55f7a6eca20abac2ea96ba17ad800bc7e3d5e936731152233628c910a",
+    "sizeBytes":  15408068,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
