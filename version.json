@@ -1,9 +1,9 @@
 {
-    "versionCode":  118,
-    "versionName":  "2.0.15",
+    "versionCode":  123,
+    "versionName":  "2.0.20",
     "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
-    "releaseNotes":  "Agrega boton de aspecto en el reproductor: Original, Zoom y Full para llenar pantalla cuando el contenido trae barras negras.",
-    "sha256":  "07de85d7f20114616f44d22a6aa4e5d70fed9d2880ae9aa1848f2d1fb3697c01",
-    "sizeBytes":  15391680,
+    "releaseNotes":  "v2.0.20: mejora En Vivo en Fire Stick: vuelve el mini reproductor lateral y el canal solo cambia al presionar OK; corrige el foco visible del menu Salir.",
+    "sha256":  "894399c462c4faa6fad3e1ddc53e56f00d0cdb938a839118f09f6878fe499fca",
+    "sizeBytes":  15391666,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
