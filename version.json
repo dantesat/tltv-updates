@@ -1,9 +1,9 @@
 {
-    "versionCode":  134,
-    "versionName":  "2.0.31",
+    "versionCode":  135,
+    "versionName":  "2.0.32",
     "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
-    "releaseNotes":  "Mejoras de navegacion: grid 7x8 por defecto en peliculas y series, busqueda mas estable, versiones de peliculas mas rapidas, Home mas compacto y pantalla completa desde el preview de TV.",
-    "sha256":  "56bf717624c38f3ca00c0a4b2032d943d82754e00d773dde9a3179200610ce24",
-    "sizeBytes":  15408062,
+    "releaseNotes":  "Filtro Kids mejorado en series: categorias mixtas como Disney+ ahora validan con TMDB para ocultar contenido no infantil.",
+    "sha256":  "215f96dc5313ccb90925a6e5a2c03a54a4fa7cf94fb042fa78677f9a8f7f2e0e",
+    "sizeBytes":  15408049,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
