@@ -1,9 +1,9 @@
 {
-    "versionCode":  133,
-    "versionName":  "2.0.30",
+    "versionCode":  134,
+    "versionName":  "2.0.31",
     "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
-    "releaseNotes":  "Mejora historial y continuar viendo en peliculas/series; agrega eliminar perfiles desde Administrar perfiles.",
-    "sha256":  "c60e766fe22526a6faa54b5435aeb779d66d93bc1f50ed70d772a99f99b7c9af",
+    "releaseNotes":  "Mejoras de navegacion: grid 7x8 por defecto en peliculas y series, busqueda mas estable, versiones de peliculas mas rapidas, Home mas compacto y pantalla completa desde el preview de TV.",
+    "sha256":  "56bf717624c38f3ca00c0a4b2032d943d82754e00d773dde9a3179200610ce24",
     "sizeBytes":  15408062,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
