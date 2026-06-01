@@ -1,9 +1,9 @@
 {
-    "versionCode":  138,
-    "versionName":  "2.0.35",
+    "versionCode":  139,
+    "versionName":  "2.0.36",
     "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
-    "releaseNotes":  "Actualizacion 2.0.35: mejora la carga EPG/XMLTV, TV en vivo, catalogo y perfiles.",
-    "sha256":  "912da9ae5169f74e58ef79fe665c149c00d030169237ab93c9ff2716e255eff2",
-    "sizeBytes":  15424432,
+    "releaseNotes":  "Actualizacion 2.0.36: mejora estabilidad en Live TV, Favoritos y navegacion con preview en Android TV.",
+    "sha256":  "e7a209e4a4654803919016b2f723d5a8ae1f8c1852802c6d2e0223a0620affbd",
+    "sizeBytes":  15424435,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
