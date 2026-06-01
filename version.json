@@ -1,9 +1,9 @@
 {
-    "versionCode":  141,
-    "versionName":  "2.0.38",
+    "versionCode":  142,
+    "versionName":  "2.0.39",
     "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
-    "releaseNotes":  "Actualizacion 2.0.38: mejora el control de multipantalla, corrige la respuesta de lupa y X para cambiar o cerrar pantallas individuales y evita selecciones dobles de canal.",
-    "sha256":  "998ca6f33314b4327d9682b42e3ddab65e1c81854a12aaeee1c0dbc465645be3",
-    "sizeBytes":  15424436,
+    "releaseNotes":  "Actualizacion 2.0.39: nuevo formato de multipantalla con selector 2x/3x/4x, panel lateral rapido para elegir canales, controles por pantalla y reporte de problemas de contenido.",
+    "sha256":  "b4598b4e2b58b5d513a77f912a97e15124f595be4711d596e1ce8e3f9096b69a",
+    "sizeBytes":  15424435,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
