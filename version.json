@@ -1,9 +1,9 @@
 {
-    "versionCode":  145,
-    "versionName":  "2.0.42",
+    "versionCode":  146,
+    "versionName":  "2.0.43",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Actualizacion 2.0.42: conecta los reportes de soporte de multipantalla al panel admin con canal, usuario, dispositivo, version y detalles.",
-    "sha256":  "4b58d03a419106f413e86cee03b4c7c64da6ea0979b17736ef67a1306a70451f",
-    "sizeBytes":  15440825,
+    "releaseNotes":  "Actualizacion 2.0.43: multipantalla mas inteligente con boton Ultima, canales recientes, deteccion de canales ya activos y reemplazo sin duplicados.",
+    "sha256":  "144b51942dae4261a262568bc7d42c2061b3431fa7b2f79860cab8894401efa2",
+    "sizeBytes":  15440834,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
