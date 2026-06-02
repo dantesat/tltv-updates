@@ -1,9 +1,9 @@
 {
-    "versionCode":  154,
-    "versionName":  "2.0.51",
+    "versionCode":  155,
+    "versionName":  "2.0.52",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Actualizacion 2.0.51: agrega EPG en la guia lateral de canales; cada canal muestra el programa actual y una barra de progreso cuando hay datos de guia.",
-    "sha256":  "9fc764dfec4f79d49d9b224ded67156964964dfe7ff123bfbc0b4bde4de549d5",
-    "sizeBytes":  15440824,
+    "releaseNotes":  "Actualizacion 2.0.52: hotfix para EPG en la guia lateral de canales; carga el cache XMLTV al abrir Live y usa short EPG del proveedor como respaldo cuando XMLTV no tiene programa.",
+    "sha256":  "490e77f1370df8bf011d764eb2bf06e667b9e7a6249d5dae94da5aeb91eaa324",
+    "sizeBytes":  15457218,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
