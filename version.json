@@ -1,9 +1,9 @@
 {
-    "versionCode":  147,
-    "versionName":  "2.0.44",
+    "versionCode":  148,
+    "versionName":  "2.0.45",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Actualizacion 2.0.44: mejora EPG en multipantalla con Ahora, Sigue y barra de progreso del programa actual.",
-    "sha256":  "8264b9f8ef5b4f65361b6381bc243f8776fd246e314cc0eb1aa32c688a98bf3a",
-    "sizeBytes":  15440824,
+    "releaseNotes":  "Actualizacion 2.0.45: corrige navegacion del buscador en multipantalla para que DPAD izquierda no saque el foco del panel y regrese a la lupa.",
+    "sha256":  "e1bb256d642a563cbea5fb8679c41028c55548d9db9a04e0f623dc5b8cf2fabc",
+    "sizeBytes":  15440830,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
