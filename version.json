@@ -1,9 +1,9 @@
 {
-    "versionCode":  143,
-    "versionName":  "2.0.40",
+    "versionCode":  144,
+    "versionName":  "2.0.41",
     "downloadUrl":  "https://raw.githubusercontent.com/dantesat/tltv-updates/main/TLTVPlayer.apk",
-    "releaseNotes":  "Actualizacion 2.0.40: corrige la expiracion y dias restantes en Cuenta cuando la sesion arranca desde cache, y restaura la carga de canales en Multipantalla usando el catalogo optimizado.",
-    "sha256":  "4c7a4a325d078ae552c5e5d71ebb7f07febdcebf7c4201f74fe9c9010c99ed8d",
-    "sizeBytes":  15440815,
+    "releaseNotes":  "Actualizacion 2.0.41: habilita 4 pantallas en multipantalla para todos los equipos, reduce buffer por reproductor y agrega reintento por pantalla cuando una senal no carga.",
+    "sha256":  "949890f365a856f23c89ad122aa93befb6b4bae289a27cf58c1e219a5302467e",
+    "sizeBytes":  15424450,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
