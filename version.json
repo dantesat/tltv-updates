@@ -1,9 +1,9 @@
 {
-    "versionCode":  153,
-    "versionName":  "2.0.50",
+    "versionCode":  154,
+    "versionName":  "2.0.51",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Actualizacion 2.0.50: agrega guia lateral translucida en Live TV; OK abre el listado de canales de la categoria actual y OK sobre otro canal lo cambia al instante. En multipantalla, OK en el slot activo abre el selector para cambiar ese canal sin salir.",
-    "sha256":  "f5c3ccdb70444776ad29ef5be200358386e33f1e05d19deb7c4c59d0a3a486c4",
-    "sizeBytes":  15457207,
+    "releaseNotes":  "Actualizacion 2.0.51: agrega EPG en la guia lateral de canales; cada canal muestra el programa actual y una barra de progreso cuando hay datos de guia.",
+    "sha256":  "9fc764dfec4f79d49d9b224ded67156964964dfe7ff123bfbc0b4bde4de549d5",
+    "sizeBytes":  15440824,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
