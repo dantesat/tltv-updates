@@ -1,9 +1,9 @@
 {
-    "versionCode":  164,
-    "versionName":  "2.0.61",
+    "versionCode":  165,
+    "versionName":  "2.0.62",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v2.0.11/TLTVPlayer.apk",
-    "releaseNotes":  "Historial: la tacha para borrar un elemento ahora es navegable con control remoto; derecha enfoca borrar, OK elimina e izquierda vuelve a la tarjeta.",
-    "sha256":  "d5cc43b7a8c83a94fdff415991478fe0587e2ed0a2b7437485791efd754e5685",
-    "sizeBytes":  15457193,
+    "releaseNotes":  "Live TV: al dar OK sobre un canal por segunda vez, el canal se abre directo en pantalla completa sin cambiar el flujo del preview.",
+    "sha256":  "8e337f2a36b42dc0173d1087625a4c677dcaf07aa3acb6c635fa87ef5a49391b",
+    "sizeBytes":  15457206,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
