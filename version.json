@@ -1,9 +1,9 @@
 {
-    "versionCode":  165,
-    "versionName":  "2.0.62",
+    "versionCode":  166,
+    "versionName":  "2.0.63",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v2.0.11/TLTVPlayer.apk",
-    "releaseNotes":  "Live TV: al dar OK sobre un canal por segunda vez, el canal se abre directo en pantalla completa sin cambiar el flujo del preview.",
-    "sha256":  "8e337f2a36b42dc0173d1087625a4c677dcaf07aa3acb6c635fa87ef5a49391b",
+    "releaseNotes":  "Admin: diagnostico de cliente, mapa e historico mensual de conectados. App: soporte para aplicar override de dominio oficial desde el panel.",
+    "sha256":  "cdbc867f997c9f844dd7a2cb348f8ffbda04d015a7efd4628bba8eac75d379aa",
     "sizeBytes":  15457206,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
