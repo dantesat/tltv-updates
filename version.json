@@ -1,9 +1,9 @@
 {
-    "versionCode":  162,
-    "versionName":  "2.0.59",
+    "versionCode":  163,
+    "versionName":  "2.0.60",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v2.0.11/TLTVPlayer.apk",
-    "releaseNotes":  "EPG: la app usa guia compacta/cacheada del backend primero para cargar mas rapido y reducir congelamientos en Fire Stick.",
-    "sha256":  "63b852ec5b45c1b572fa88205f8010343c4889fa2f61b27f5c63cf360a4ff029",
-    "sizeBytes":  15457209,
+    "releaseNotes":  "Kids: peliculas del perfil de ninos ahora filtran contenido adulto y verifican categorias infantiles ambiguas con TMDB.",
+    "sha256":  "fe2e9cecdc715101e7ffa650fe99f375473a052fefbceb5db65003df55616977",
+    "sizeBytes":  15457207,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
