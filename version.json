@@ -1,9 +1,9 @@
 {
-    "versionCode":  301,
-    "versionName":  "3.0.1",
+    "versionCode":  302,
+    "versionName":  "3.0.2",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "PPV renovado: categorias completas en la nueva vista, filtros deportivos, Favoritos, Recientes y acceso a multipantalla.",
-    "sha256":  "ccf1ff00ea77acdc9f7d4d525dc9641ce4a87a1766e95b444f3f7f573aea5707",
-    "sizeBytes":  15473595,
+    "releaseNotes":  "PPV mejorado: En vivo sin hero con listado vertical, Hoy organizado por categorias del dia y apertura directa de eventos por carpeta.",
+    "sha256":  "6f7f864de7c4656ed20aadeffd73e2f369004d978ee995bf4b9eeb5a190055f1",
+    "sizeBytes":  15473597,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
