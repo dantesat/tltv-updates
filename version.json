@@ -1,9 +1,9 @@
 {
-    "versionCode":  302,
-    "versionName":  "3.0.2",
+    "versionCode":  303,
+    "versionName":  "3.0.3",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "PPV mejorado: En vivo sin hero con listado vertical, Hoy organizado por categorias del dia y apertura directa de eventos por carpeta.",
-    "sha256":  "6f7f864de7c4656ed20aadeffd73e2f369004d978ee995bf4b9eeb5a190055f1",
-    "sizeBytes":  15473597,
+    "releaseNotes":  "PPV optimizado para celulares en horizontal: hero compacto, menu lateral mas pequeno y tarjetas visibles con mejor scroll.",
+    "sha256":  "20f4dbe254477472d4c788e86fca3d9f3e806c2f37641f14d06d941b0e4347ff",
+    "sizeBytes":  15473592,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
