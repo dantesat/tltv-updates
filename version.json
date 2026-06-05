@@ -1,7 +1,7 @@
 {
     "versionCode":  300,
     "versionName":  "3.0",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v2.0.11/TLTVPlayer.apk",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
     "releaseNotes":  "PPV renovado: nueva vista de eventos con filtros deportivos, categorias completas, Favoritos, Recientes y acceso a multipantalla.",
     "sha256":  "7bfbb0ffeae1592070841c69eccb67a540729e4be6b84f3ec4fd397b0f6116aa",
     "sizeBytes":  15473588,
