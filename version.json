@@ -1,9 +1,9 @@
 {
-    "versionCode":  306,
-    "versionName":  "3.0.6",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v3.0.6/TLTVPlayer.apk",
-    "releaseNotes":  "PPV mejorado: Inicio ahora es un resumen rapido; Proximos ahora es Agenda PPV compacta por horario; al volver desde Multipantalla abierta desde PPV regresa a PPV.",
-    "sha256":  "3588bdcc4f2d02638b766897b153c865076637da8acb62707544de00a5130a74",
-    "sizeBytes":  15489982,
+    "versionCode":  307,
+    "versionName":  "3.0.7",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v3.0.7/TLTVPlayer.apk",
+    "releaseNotes":  "PPV Agenda: los botones Play y + ahora son accesibles con el control; desde la fila se entra con derecha y se vuelve con izquierda.",
+    "sha256":  "0f27d815065bc35a4c762e899ffb1d80b46e112293ce78254f3224fd97c3ba03",
+    "sizeBytes":  15489971,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
