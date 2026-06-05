@@ -1,7 +1,7 @@
 {
     "versionCode":  305,
     "versionName":  "3.0.5",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v3.0.5/TLTVPlayer.apk",
     "releaseNotes":  "PPV: ajuste de foco con control remoto para entrar al listado de eventos desde categorias y chips En vivo.",
     "sha256":  "de5b28c6d03695b8b05bf950480f4b40ca1e1bcc28f6341810f225dc0abed206",
     "sizeBytes":  15473588,
