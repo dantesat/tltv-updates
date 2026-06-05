@@ -1,9 +1,9 @@
 {
-    "versionCode":  304,
-    "versionName":  "3.0.4",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v3.0.4/TLTVPlayer.apk",
-    "releaseNotes":  "PPV mas ordenado: buscador arriba y una sola fila con todas las categorias PPV.",
-    "sha256":  "2885809600ada4cd477be523f5d5353d1a449027b530886a8d15d27dacad23a5",
-    "sizeBytes":  15473611,
+    "versionCode":  305,
+    "versionName":  "3.0.5",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v3.0.5/TLTVPlayer.apk",
+    "releaseNotes":  "Multipantalla PPV: al entrar desde PPV, el selector solo muestra eventos PPV para llenar pantallas mas rapido.",
+    "sha256":  "e47a1d7adbe9f88e614006f79d9e7cbedb296f315db82eb2179c8c02919dba4f",
+    "sizeBytes":  15473604,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
