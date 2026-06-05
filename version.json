@@ -1,9 +1,9 @@
 {
     "versionCode":  307,
     "versionName":  "3.0.7",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v3.0.7/TLTVPlayer.apk",
-    "releaseNotes":  "PPV Agenda: los botones Play y + ahora son accesibles con el control; desde la fila se entra con derecha y se vuelve con izquierda.",
-    "sha256":  "0f27d815065bc35a4c762e899ffb1d80b46e112293ce78254f3224fd97c3ba03",
-    "sizeBytes":  15489971,
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
+    "releaseNotes":  "Series: nueva seccion Capitulos nuevos con episodios leidos del panel; mejoras recientes de PPV y navegacion.",
+    "sha256":  "db8a7495cccf7e9e71acc4acdba9c6d96cc2249f78c445a45a11905b324765ef",
+    "sizeBytes":  15506361,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
