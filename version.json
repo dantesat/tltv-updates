@@ -1,9 +1,9 @@
 {
-    "versionCode":  308,
-    "versionName":  "3.0.8",
+    "versionCode":  309,
+    "versionName":  "3.0.9",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Series: nueva seccion Capitulos nuevos con episodios leidos del panel; mejoras recientes de PPV y navegacion.",
-    "sha256":  "8bfe6b66e5d63c9a9f693d1f96aae32b2e0adecf46fb852b88dce03d5da1b8b6",
-    "sizeBytes":  15506368,
+    "releaseNotes":  "Mejoras PPV: buscador y cartelera completa; stats de futbol con mejor enlace API-Sports; OTA mas rapido y confiable.",
+    "sha256":  "41587b9bc5760583faf60fde118dc34234b83e9c871e676af305400a5209ec17",
+    "sizeBytes":  15522741,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
