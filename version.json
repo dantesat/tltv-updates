@@ -1,9 +1,9 @@
 {
-    "versionCode":  313,
-    "versionName":  "3.1.3",
+    "versionCode":  314,
+    "versionName":  "3.1.4",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.3: banner PPV mas compacto en celulares landscape; reduce altura, espacio y botones del hero para mostrar mas eventos.",
-    "sha256":  "5d914fae0abd6e849c1df71933986e90c73e87bad321392f010278eb3dc0def3",
-    "sizeBytes":  15555658,
+    "releaseNotes":  "Version 3.1.4: mejora navegacion D-pad en login; permite bajar desde usuario/contrasena/VER a Iniciar sesion y moverse a Guardar.",
+    "sha256":  "d81e87fc35229993074339088dab1d3c229add7ce9a199763c7b42663be7bc15",
+    "sizeBytes":  15555660,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
