@@ -1,9 +1,9 @@
 {
-    "versionCode":  315,
-    "versionName":  "3.1.5",
+    "versionCode":  316,
+    "versionName":  "3.1.6",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.5: mejora PPV en celular landscape; al navegar la cartelera se ocultan menu, banner, buscador y tarjetas para dejar mas espacio a los eventos.",
-    "sha256":  "de32029d94f6e9396d011bb9339b94be413995c19ae50e1d2a65fcac6b197217",
-    "sizeBytes":  15555660,
+    "releaseNotes":  "Version 3.1.6: hotfix del player Live TV; corrige el foco despues de cambiar canal desde la guia lateral para que OK vuelva a abrir la guia y arriba/abajo cambien canal.",
+    "sha256":  "dc8c0a7135747853d38ef8466297001fa7d20d1c9dd568c961fe4d2844136853",
+    "sizeBytes":  15555657,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
