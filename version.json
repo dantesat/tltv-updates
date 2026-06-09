@@ -1,9 +1,9 @@
 {
-    "versionCode":  317,
-    "versionName":  "3.1.7",
+    "versionCode":  318,
+    "versionName":  "3.1.8",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.7: hotfix Live TV; el segundo OK del mini-player ya abre el Player completo en lugar del fullscreen inline, recuperando controles, guia lateral y cambio de canal con arriba/abajo.",
-    "sha256":  "2293311bdb2a26e5e64614e6d54707ff471bdefd9fd8c03af8da0f43a40bfc76",
-    "sizeBytes":  15555654,
+    "releaseNotes":  "Hotfix 3.1.8: reduce cierres por memoria al pasar de En Vivo a peliculas/series y ajusta buffers para equipos Fire TV low-RAM.",
+    "sha256":  "e0c34630f91131588f2285fe2affb197d8079ec0d3ed75312125ad28882b73a6",
+    "sizeBytes":  15555662,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
