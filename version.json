@@ -1,9 +1,9 @@
 {
-    "versionCode":  318,
-    "versionName":  "3.1.8",
+    "versionCode":  319,
+    "versionName":  "3.1.9",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Hotfix 3.1.8: reduce cierres por memoria al pasar de En Vivo a peliculas/series y ajusta buffers para equipos Fire TV low-RAM.",
-    "sha256":  "e0c34630f91131588f2285fe2affb197d8079ec0d3ed75312125ad28882b73a6",
-    "sizeBytes":  15555662,
+    "releaseNotes":  "Hotfix 3.1.9: abre canales con retry automatico antes de mostrar error y al salir del player vuelve a la misma categoria/canal de En Vivo.",
+    "sha256":  "76da61437bf6091d918570620e5276a58b0cd24d6eb1ca24a5e2a63b716298e9",
+    "sizeBytes":  15572051,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
