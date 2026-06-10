@@ -1,7 +1,7 @@
 {
     "versionCode":  323,
     "versionName":  "3.1.13",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v3.1.13/TLTVPlayer.apk",
     "releaseNotes":  "Version 3.1.13: mejoras PPV en vivo, carrusel de eventos deportivos, panel de audio/subtitulos y barra tactil para adelantar.",
     "sha256":  "478c3be46d7503b8abd1e75cddd545eb7ee217683b58fd209715b9b8b4ecc12d",
     "sizeBytes":  15588398,
