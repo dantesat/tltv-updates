@@ -1,9 +1,9 @@
 {
-    "versionCode":  321,
-    "versionName":  "3.1.11",
+    "versionCode":  322,
+    "versionName":  "3.1.12",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Hotfix PPV: agrega FIFA Cup 2026, vista de categorias PPV y mejora deteccion de categorias FIFA/Mundial/Copa.",
-    "sha256":  "346d9e6a33a59aad3b227d94c52c3950861b3c595b36728701117b8aa81a7a5e",
-    "sizeBytes":  15572040,
+    "releaseNotes":  "Fase movil: celular abre en portrait, Home con posters responsivos, crossfade y skeletons; mantiene Fire TV en landscape. Incluye estabilidad de canales y ajuste PPV categorias.",
+    "sha256":  "31d593a5c3929d0bc8be8bbc7ff88b9d0805b26dd45505ce4e25cdd94043b621",
+    "sizeBytes":  15572016,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
