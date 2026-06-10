@@ -1,9 +1,9 @@
 {
-    "versionCode":  322,
-    "versionName":  "3.1.12",
+    "versionCode":  323,
+    "versionName":  "3.1.13",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Fase movil: celular abre en portrait, Home con posters responsivos, crossfade y skeletons; mantiene Fire TV en landscape. Incluye estabilidad de canales y ajuste PPV categorias.",
-    "sha256":  "31d593a5c3929d0bc8be8bbc7ff88b9d0805b26dd45505ce4e25cdd94043b621",
-    "sizeBytes":  15572016,
+    "releaseNotes":  "Version 3.1.13: mejoras PPV en vivo, carrusel de eventos deportivos, panel de audio/subtitulos y barra tactil para adelantar.",
+    "sha256":  "478c3be46d7503b8abd1e75cddd545eb7ee217683b58fd209715b9b8b4ecc12d",
+    "sizeBytes":  15588398,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
