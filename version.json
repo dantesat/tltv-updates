@@ -1,9 +1,9 @@
 {
-    "versionCode":  320,
-    "versionName":  "3.1.10",
+    "versionCode":  321,
+    "versionName":  "3.1.11",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Hotfix canales: mejoras recientes de En Vivo, apertura de canales y estabilidad.",
-    "sha256":  "bfb9ab1699b32e1792c0dcb879a14f3b8cb2be206254608753be15ef6d511dac",
-    "sizeBytes":  15572037,
+    "releaseNotes":  "Hotfix PPV: agrega FIFA Cup 2026, vista de categorias PPV y mejora deteccion de categorias FIFA/Mundial/Copa.",
+    "sha256":  "346d9e6a33a59aad3b227d94c52c3950861b3c595b36728701117b8aa81a7a5e",
+    "sizeBytes":  15572040,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
