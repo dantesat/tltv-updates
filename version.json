@@ -1,9 +1,9 @@
 {
-    "versionCode":  325,
-    "versionName":  "3.1.15",
+    "versionCode":  326,
+    "versionName":  "3.1.16",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.15: correccion de foco y navegacion PPV en categorias, buscador dentro de categoria y reglas remotas PPV.",
-    "sha256":  "f08b54cfe60aaf1d2c97413e5ae9de0a885e6e10b171cd8ed89361c8648db6df",
-    "sizeBytes":  15604778,
+    "releaseNotes":  "Version 3.1.16: ajuste PPV categorias; el resumen en vivo queda solo en Inicio y se mantiene navegacion/foco corregidos.",
+    "sha256":  "26992b8548d15529c3e98620a54d4758afd20a10f306f9f342ee5caa870364a9",
+    "sizeBytes":  15604785,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
