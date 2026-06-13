@@ -1,9 +1,9 @@
 {
-    "versionCode":  332,
-    "versionName":  "3.1.22",
+    "versionCode":  333,
+    "versionName":  "3.1.23",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.22: mejora buffers live para canales FHD en Fire TV, estabiliza el live edge y aplica configuracion live al player, preview y multipantalla.",
-    "sha256":  "192b04250a8e052b5ece6dc44141cabaaa3862047edbf5477acc5096781ac85c",
-    "sizeBytes":  15637562,
+    "releaseNotes":  "Version 3.1.23: corrige listado de canales favoritos dentro del player; al abrir desde Favoritos o Recientes, el menu OK mantiene todos los canales visibles de esa lista.",
+    "sha256":  "985c3b295a3c40da3f45fa20e7c63206cdcff0b6fce4e31bece664681df2e0b4",
+    "sizeBytes":  15637552,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
