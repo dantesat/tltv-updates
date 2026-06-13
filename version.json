@@ -1,9 +1,9 @@
 {
-    "versionCode":  331,
-    "versionName":  "3.1.21",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v3.1.21/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.21: habilita scroll con Arriba/Abajo en Stats, Jugadas, Alineacion y Tabla del panel deportivo, y muestra todas las stats sin cortes.",
-    "sha256":  "f000411214b1dd695cb45cef3b5bb71d487d41ba23293384f5f1c0fb55ab1067",
-    "sizeBytes":  15637556,
+    "versionCode":  332,
+    "versionName":  "3.1.22",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
+    "releaseNotes":  "Version 3.1.22: mejora buffers live para canales FHD en Fire TV, estabiliza el live edge y aplica configuracion live al player, preview y multipantalla.",
+    "sha256":  "192b04250a8e052b5ece6dc44141cabaaa3862047edbf5477acc5096781ac85c",
+    "sizeBytes":  15637562,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
