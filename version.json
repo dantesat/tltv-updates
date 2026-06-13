@@ -1,9 +1,9 @@
 {
-    "versionCode":  334,
-    "versionName":  "3.1.24",
+    "versionCode":  335,
+    "versionName":  "3.1.25",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.24: corrige foco del panel Audio y subtitulos; permite bajar con D-pad para elegir idioma/subtitulos y ajustar tamano de subtitulo.",
-    "sha256":  "f7f5f12a1316e430b7cff30c4642c630b609fa85e2c9c3e797219028424b1909",
-    "sizeBytes":  15637561,
+    "releaseNotes":  "Version 3.1.25: corrige navegacion D-pad del panel Audio y subtitulos; recupera foco despues de elegir pista y permite cambiar audio/subtitulos o ajustar tamano sin bloqueo.",
+    "sha256":  "2a9445c2e19947e7b53c00828ab2b729a059f33835db802a942b427b5647e973",
+    "sizeBytes":  15637563,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
