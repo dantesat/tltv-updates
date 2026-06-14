@@ -1,9 +1,9 @@
 {
-    "versionCode":  336,
-    "versionName":  "3.1.26",
+    "versionCode":  337,
+    "versionName":  "3.1.27",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.26: corta el audio y cierra el player cuando la app se manda a background con HOME; agrega login previo con cambio manual de dominio por usuario para clientes bloqueados por IP/dominio; mejora telemetria de overrides de dominio.",
-    "sha256":  "e23eda860c7d117eb68afc3dba63d9679452f55f5ada8a223ef1e0f251335da6",
-    "sizeBytes":  15637560,
+    "releaseNotes":  "Version 3.1.27: corrige ANR/congelamiento en PPV; cachea horarios de eventos, reutiliza regex de fecha/hora, reduce trabajo repetido de agenda/resumen y limita/escalona tarjetas de resumen segun potencia del dispositivo. Incluye fix HOME para cortar audio en background y login previo con cambio manual de dominio.",
+    "sha256":  "15f26324af27c4f1e588a08cc9cf638215ee17ffa0246319cf8090f34a180507",
+    "sizeBytes":  15637562,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
