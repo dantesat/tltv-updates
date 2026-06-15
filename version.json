@@ -1,9 +1,9 @@
 {
-    "versionCode":  338,
-    "versionName":  "3.1.28",
+    "versionCode":  339,
+    "versionName":  "3.1.29",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.28: corrige ANR en equipos low-end cuando el backend de series responde 500; evita repetir llamadas de series info, limita el escaneo de capitulos recientes por potencia del dispositivo y cierra correctamente teclado/foco del buscador LiveTV para prevenir bloqueos.",
-    "sha256":  "b47ec375e727aafe162f9b2713ae3b723d215dc1fe46084c7894d3e38387755b",
-    "sizeBytes":  15637552,
+    "releaseNotes":  "Version 3.1.29: incluye mejoras de telemetria, diagnostico de login, cambio manual de dominio y reglas remotas PPV.",
+    "sha256":  "27ecb50ad70fec79809b827329782a6d9edc23db2867f9452756137a4caf299a",
+    "sizeBytes":  15637560,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
