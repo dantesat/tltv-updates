@@ -1,9 +1,9 @@
 {
-    "versionCode":  340,
-    "versionName":  "3.1.30",
+    "versionCode":  341,
+    "versionName":  "3.1.31",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 3.1.30: desactiva el preview inline de PPV en Chromecast para evitar errores de MediaCodec y registra el motivo como codec_pressure.",
-    "sha256":  "17c83f95d6d5fb1bcc60c4901aa267d38e482555721ebede4293822571bf4c0b",
-    "sizeBytes":  15637557,
+    "releaseNotes":  "Live TV limpia cache viejo de canales y PPV muestra categorias por deporte",
+    "sha256":  "87115f08ce184038e9021cdf47b1610b4891ab9e1707bbe575a40d78722e85cd",
+    "sizeBytes":  15637558,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
