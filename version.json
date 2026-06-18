@@ -1,9 +1,9 @@
 {
-    "versionCode":  345,
-    "versionName":  "3.1.35",
+    "versionCode":  346,
+    "versionName":  "3.1.36",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
     "releaseNotes":  "Fix ANR PPV y mejoras de estabilidad",
-    "sha256":  "759e1c286ad3bfcc7ff102b69f51aa3585ead8f0817fb16ba21abc81cd2b9dc4",
-    "sizeBytes":  15653938,
+    "sha256":  "8fbc628e0c3cd4bbff803cc2c841f852105de15be0cf4ce73eddd71ebfa8740e",
+    "sizeBytes":  15653941,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
