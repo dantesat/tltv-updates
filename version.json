@@ -1,9 +1,9 @@
 {
-    "versionCode":  401,
-    "versionName":  "4.0.1",
+    "versionCode":  402,
+    "versionName":  "4.0.2",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 4.0.1: rediseño Live TV, filas compactas, EPG en filas, badges de preview y mejoras de foco.",
-    "sha256":  "b25f6ef571d4323d06be439b81aa7588f1b74861ed8b1307ae46304956bde790",
-    "sizeBytes":  15670330,
+    "releaseNotes":  "Version 4.0.2: hotfix ANR PPV/LiveTV, cartelera PPV fuera del hilo UI y EPG mas liviano.",
+    "sha256":  "803fb3e8ff513df85b041b61fbddda4d4dde0296953b8ff58070a9532e354318",
+    "sizeBytes":  15670339,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
