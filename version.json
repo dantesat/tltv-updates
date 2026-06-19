@@ -1,9 +1,9 @@
 {
-    "versionCode":  400,
-    "versionName":  "4.0.0",
+    "versionCode":  401,
+    "versionName":  "4.0.1",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 4.0.0: build nuevo para forzar actualizacion OTA y correccion de EPG",
-    "sha256":  "a8f2c6cbfac2aa589b15ca7290085719cf55a5da100c1a9c2a17821c742f9cb4",
-    "sizeBytes":  15653934,
+    "releaseNotes":  "Version 4.0.1: rediseño Live TV, filas compactas, EPG en filas, badges de preview y mejoras de foco.",
+    "sha256":  "b25f6ef571d4323d06be439b81aa7588f1b74861ed8b1307ae46304956bde790",
+    "sizeBytes":  15670330,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
