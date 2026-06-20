@@ -1,9 +1,9 @@
 {
-    "versionCode":  402,
-    "versionName":  "4.0.2",
+    "versionCode":  405,
+    "versionName":  "4.0.5",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Version 4.0.2: hotfix ANR PPV/LiveTV, cartelera PPV fuera del hilo UI y EPG mas liviano.",
-    "sha256":  "803fb3e8ff513df85b041b61fbddda4d4dde0296953b8ff58070a9532e354318",
-    "sizeBytes":  15670339,
+    "releaseNotes":  "Corrige rebuffer en series/VOD en Fire Stick usando fallback FFmpeg de audio",
+    "sha256":  "7956c6194ecfebea98d605872ec6fec547af8d859176729b48701d088b1cad47",
+    "sizeBytes":  15670341,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
