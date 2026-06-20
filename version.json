@@ -1,9 +1,9 @@
 {
-    "versionCode":  409,
-    "versionName":  "4.0.9",
+    "versionCode":  410,
+    "versionName":  "4.0.10",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Aumenta concurrencia del preload de canales para acelerar catalogo en segundo plano",
-    "sha256":  "b7e76949f9876bf9fd1668ec61aff65ab60ba94d72dd8c9073e789ffaf9af10b",
-    "sizeBytes":  15670319,
+    "releaseNotes":  "Corrige buscador PPV para no perder foco ni ocultarse cuando no hay resultados",
+    "sha256":  "032966a8ba7db8580fd13eb762d1ce05170e4beb500db272e570ab1757f4ff12",
+    "sizeBytes":  15670328,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
