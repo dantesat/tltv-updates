@@ -1,9 +1,9 @@
 {
-    "versionCode":  408,
-    "versionName":  "4.0.8",
+    "versionCode":  409,
+    "versionName":  "4.0.9",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Primer login entra rapido con catalogo base y deja el sync pesado en segundo plano",
-    "sha256":  "7c05cba3c57937d9518d726814b1876a46f207d0e5e8a490a90d228f03d2684e",
-    "sizeBytes":  15670325,
+    "releaseNotes":  "Aumenta concurrencia del preload de canales para acelerar catalogo en segundo plano",
+    "sha256":  "b7e76949f9876bf9fd1668ec61aff65ab60ba94d72dd8c9073e789ffaf9af10b",
+    "sizeBytes":  15670319,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
