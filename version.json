@@ -1,9 +1,9 @@
 {
-    "versionCode":  410,
-    "versionName":  "4.0.10",
+    "versionCode":  411,
+    "versionName":  "4.0.11",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Corrige buscador PPV para no perder foco ni ocultarse cuando no hay resultados",
-    "sha256":  "032966a8ba7db8580fd13eb762d1ce05170e4beb500db272e570ab1757f4ff12",
-    "sizeBytes":  15670328,
+    "releaseNotes":  "PPV lee categorias y canales directo desde Xtream; corrige conteos y evita que el filtro local o cache oculte eventos",
+    "sha256":  "7ba94207a0bab61c4e49176c44078d57f7bf430cb21de3d55a5ec407caa3b53e",
+    "sizeBytes":  15686695,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
