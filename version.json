@@ -1,9 +1,9 @@
 {
-    "versionCode":  412,
-    "versionName":  "4.0.12",
+    "versionCode":  413,
+    "versionName":  "4.0.13",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "4.0.12: corrige el boton Refresh del header en Fire TV para que OK muestre/procese la actualizacion y mejora la respuesta durante refresh en segundo plano.",
-    "sha256":  "8d1cd03d482e31cda618586e5e61fbd60c9c1bfabc6b89fb33cc1acc0a8dea78",
-    "sizeBytes":  15686708,
+    "releaseNotes":  "4.0.13: corrige la entrada a PPV Recientes/Favoritos/Todo desde Categorias para que no regrese al menu, y reduce ruido no accionable de Sentry/TMDB.",
+    "sha256":  "adcc00f6227a5fc987a2f8df5fa8657b51eb2a41aa57af5409bb9d52ac0d3f26",
+    "sizeBytes":  15686710,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
