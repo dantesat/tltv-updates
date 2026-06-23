@@ -1,9 +1,9 @@
 {
-    "versionCode":  414,
-    "versionName":  "4.0.14",
+    "versionCode":  415,
+    "versionName":  "4.0.15",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "4.0.14: Peliculas con home tipo streaming, carruseles y Top 10; corrige Back en PPV para conservar la categoria al volver desde un canal.",
-    "sha256":  "cd75adac2e745884efb1328abdee20c8fe6538a57d65510cd6c2c4790bc8849f",
-    "sizeBytes":  15703088,
+    "releaseNotes":  "4.0.15: Corrige scroll en Peliculas Recientes para que el banner se oculte al bajar.",
+    "sha256":  "9322142fa212a9d31f12922bbaf61fb2d3a4c1ce9e92b6af4bde4c1103924105",
+    "sizeBytes":  15703092,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
