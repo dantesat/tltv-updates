@@ -1,9 +1,9 @@
 {
-    "versionCode":  431,
-    "versionName":  "4.1.13",
+    "versionCode":  432,
+    "versionName":  "4.1.14",
     "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Android directo a Xtream; VPS solo para Web Player.",
-    "sha256":  "e5cd7c3d6ab1932c1fbb6c18f7e8588b869aebbdf1bade6e017a3a025f2e1953",
-    "sizeBytes":  15721584,
+    "releaseNotes":  "Mejoras en Recién visto y continuidad de episodios.",
+    "sha256":  "71e143e3b2b7ca6eab759d71d7f3760babac182f62c49e835237a93595f60902",
+    "sizeBytes":  15721595,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
