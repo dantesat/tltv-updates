@@ -1,9 +1,9 @@
 {
-    "versionCode":  434,
-    "versionName":  "4.1.16",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Menor consumo de peticiones en status y heartbeat, menos ruido en login y cache temporal para EPG corto.",
-    "sha256":  "85a8eef955a853a5a51c2bf54c89d9981accb19abfe079811ee5f215d908612d",
-    "sizeBytes":  15737970,
-    "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+    "versionCode": 435,
+    "versionName": "4.1.17",
+    "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
+    "releaseNotes": "Los capitulos recien agregados aparecen mas rapido y ya no se muestran temporalmente como proximos estrenos.",
+    "sha256": "813395274a29b472b088ec405c3c35ae5c2ed253ffa99eb6f0dc79e961d5e8b8",
+    "sizeBytes": 15737964,
+    "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
