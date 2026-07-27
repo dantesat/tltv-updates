@@ -1,9 +1,9 @@
 {
-    "versionCode": 436,
-    "versionName": "4.1.18",
-    "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes": "Menos consultas repetidas: conserva el ultimo catalogo valido, espera tras errores 403 y evita resincronizar todo en cada inicio.",
-    "sha256": "ad2245542d155ce6b40c92b78a8b1f5000097f73d21d37acca43cd2022888cc5",
-    "sizeBytes": 15737966,
-    "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+    "versionCode":  437,
+    "versionName":  "4.1.19",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
+    "releaseNotes":  "Live TV: La Casa de los Famosos ya no se clasifica como PPV y vuelve a mostrarse en categorias normales.",
+    "sha256":  "baed8f02d5dd50734d213a0891994d80dc3a7592bb9d1c13b89e913a732f3767",
+    "sizeBytes":  15737970,
+    "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
