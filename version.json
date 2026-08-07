@@ -1,9 +1,9 @@
 {
-    "versionCode":  440,
-    "versionName":  "4.1.22",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v4.1.22/TLTVPlayer.apk",
-    "releaseNotes":  "Optimización integral Android 7+: estabilidad, rendimiento, compatibilidad táctil/TV, cachés atómicos, navegación, reproducción, Multi y OTA robusto.",
-    "sha256":  "c1d51060defbc4f8b91826b62d5fc7a3793e67c746ccf2c4d0c3676d6d7883d5",
-    "sizeBytes":  30623819,
-    "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+    "versionCode": 441,
+    "versionName": "4.1.23",
+    "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.23/TLTVPlayer.apk",
+    "releaseNotes": "Corrige ANR en Perfil de Niños con catálogos grandes; filtrado cancelable fuera del hilo UI y menor presión de memoria/CPU.",
+    "sha256": "e2ccd7d3e054c57f564748d299cbbcea17e93c178d1be36a923a854fd76da26a",
+    "sizeBytes": 30607439,
+    "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
