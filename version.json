@@ -1,9 +1,9 @@
 {
-    "versionCode":  439,
-    "versionName":  "4.1.21",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/latest/download/TLTVPlayer.apk",
-    "releaseNotes":  "Mejora de estabilidad en Fire TV: corrige bloqueos al reproducir, optimiza el uso de memoria e imagenes y reduce cierres por falta de respuesta.",
-    "sha256":  "c931b910aadb044e13dc8f881fa67a383ab1ee3045416680f1859d29b681d5b4",
-    "sizeBytes":  15737970,
+    "versionCode":  440,
+    "versionName":  "4.1.22",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v4.1.22/TLTVPlayer.apk",
+    "releaseNotes":  "Optimización integral Android 7+: estabilidad, rendimiento, compatibilidad táctil/TV, cachés atómicos, navegación, reproducción, Multi y OTA robusto.",
+    "sha256":  "c1d51060defbc4f8b91826b62d5fc7a3793e67c746ccf2c4d0c3676d6d7883d5",
+    "sizeBytes":  30623819,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
