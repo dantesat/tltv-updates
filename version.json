@@ -1,9 +1,9 @@
 {
-    "versionCode": 442,
-    "versionName": "4.1.24",
-    "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.24/TLTVPlayer.apk",
-    "releaseNotes": "Reduce peticiones duplicadas de Live TV, VOD y EPG; agrega deduplicación, backoff y caché segura; corrige consumo continuo de CPU y memoria durante la sincronización.",
-    "sha256": "2d177e5294992f3ee0bf1ac8af9412844e1656dc617db3b5a3eb092bfd805ba9",
-    "sizeBytes": 30640215,
-    "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+    "versionCode":  443,
+    "versionName":  "4.1.25",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v4.1.25/TLTVPlayer.apk",
+    "releaseNotes":  "Mejoras de estabilidad",
+    "sha256":  "0e0f6a8d60f4951e8e8b2778610a594e002f232819051b802b1955c5ad485196",
+    "sizeBytes":  30640207,
+    "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
