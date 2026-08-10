@@ -1,9 +1,9 @@
 {
-    "versionCode":  445,
-    "versionName":  "4.1.27",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v4.1.27/TLTVPlayer.apk",
-    "releaseNotes":  "Mejoras de estabilidad, rendimiento y navegación",
-    "sha256":  "5b29c0493c10f6a769d36bc21d0f5d47ae59f01edb01cb90284a62da9d87a9c2",
-    "sizeBytes":  30911471,
+    "versionCode":  446,
+    "versionName":  "4.1.28",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v4.1.28/TLTVPlayer.apk",
+    "releaseNotes":  "Mejoras de estabilidad y navegación en PPV.",
+    "sha256":  "c7ae6dfe43c96d8b624fa8bfda96c45181a2c1d9219b6b90e11a243830b350d2",
+    "sizeBytes":  30913083,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
