@@ -1,9 +1,9 @@
 {
-    "versionCode":  448,
-    "versionName":  "4.1.30",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v4.1.30/TLTVPlayer.apk",
+    "versionCode":  449,
+    "versionName":  "4.1.31",
+    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v4.1.31/TLTVPlayer.apk",
     "releaseNotes":  "Mejoras de estabilidad",
-    "sha256":  "72841afdd5ce84082ddcb80d125209f48539e903047c817461f144f34d6ffd37",
-    "sizeBytes":  30978642,
+    "sha256":  "21078fbe66a34698a7a1c007203d445fd052abf3da22a2ffe777f35677555594",
+    "sizeBytes":  30978633,
     "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
