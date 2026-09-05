@@ -1,9 +1,9 @@
 {
-    "versionCode":  455,
-    "versionName":  "4.1.37",
-    "downloadUrl":  "https://github.com/dantesat/tltv-updates/releases/download/v4.1.37/TLTVPlayer.apk",
-    "releaseNotes":  "Mejoras de estabilidad",
-    "sha256":  "582d6d94e859096c9d5e0eca2943554fe8c5e07cb0ca147c5ac443880aa66985",
-    "sizeBytes":  30994997,
-    "certSha256":  "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
+  "versionCode": 457,
+  "versionName": "4.1.38",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.38/TLTVPlayer.apk",
+  "releaseNotes": "Catalogo de peliculas mas compacto, titulos mas claros y ficha mejorada con sagas y peliculas similares. Mejoras de navegacion con el control remoto.",
+  "sha256": "f1dce50f215afd329445a902fb7c45b6b165e94b30a1e66751578e8e9ac3d897",
+  "sizeBytes": 30945847,
+  "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
