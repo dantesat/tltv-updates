@@ -1,9 +1,9 @@
 {
-  "versionCode": 458,
-  "versionName": "4.1.39",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.39/TLTVPlayer.apk",
-  "releaseNotes": "Mejoras de estabilidad y correcciones de reproduccion e inicio de sesion.",
-  "sha256": "90904cab45475ba3aac78c5c18c9da37a94dd0be3d33d1fbc2728138cabd8583",
-  "sizeBytes": 30945864,
+  "versionCode": 459,
+  "versionName": "4.1.40",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.40/TLTVPlayer.apk",
+  "releaseNotes": "Corrige la apertura de canales desde Favoritos e Historial cuando el catalogo local esta incompleto o desactualizado.",
+  "sha256": "96160d12424907f4ba1db6642faf0e7147da54aa57843a878c0d31d539fbbbec",
+  "sizeBytes": 30945835,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
