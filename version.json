@@ -1,9 +1,9 @@
 {
-  "versionCode": 461,
-  "versionName": "4.1.42",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.42/TLTVPlayer.apk",
-  "releaseNotes": "Conserva la busqueda y el evento seleccionado al volver de PPV, evita recargas innecesarias y corrige la seleccion con el control remoto.",
-  "sha256": "53a07d22beebbee075f0376e5b68513a7aa492c73d322a704b08636c4d56388d",
-  "sizeBytes": 30945858,
+  "versionCode": 465,
+  "versionName": "4.1.46",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.46/TLTVPlayer.apk",
+  "releaseNotes": "Mejoras de navegacion y foco con el control remoto. Correcciones en PPV, Series, Peliculas, busqueda y Multi. Menor trabajo repetido al cargar PPV. Telemetria autenticada, reintentos acotados y mejoras de estabilidad.",
+  "sha256": "1a57a55e12cca89b7fe50dd6e7f130809a9a54e6d3234e84b99380fccda1ce46",
+  "sizeBytes": 31011387,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
