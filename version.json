@@ -1,9 +1,9 @@
 {
-  "versionCode": 466,
-  "versionName": "4.1.47",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.47/TLTVPlayer.apk",
-  "releaseNotes": "Se retira el acceso fijo a FIFA Cup 2026 de PPV. Los torneos siguen disponibles en Categorias segun el catalogo. Compatibilidad con pantallas guardadas de versiones anteriores, sin nuevas consultas ni precargas.",
-  "sha256": "11fce3f288b084a324ec61d7c8d97da1736af15c81fe18a5eceabb1717d8d083",
-  "sizeBytes": 31011385,
+  "versionCode": 468,
+  "versionName": "4.1.49",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.49/TLTVPlayer.apk",
+  "releaseNotes": "Mejoras de navegacion con el control remoto y recuperacion de reproduccion. Los rechazos HTTP 401/403 ya no se presentan como una suscripcion vencida sin comprobarla. Al reintentar se conserva el ultimo punto de la pelicula o episodio, incluidos los retrocesos.",
+  "sha256": "75f033ce952e640ff6437ea8c868867b4fd584ec3762f4883428b5637550c7c9",
+  "sizeBytes": 31126085,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
