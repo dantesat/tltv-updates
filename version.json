@@ -1,9 +1,9 @@
 {
-  "versionCode": 470,
-  "versionName": "4.1.51",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.51/TLTVPlayer.apk",
-  "releaseNotes": "Series tiene un nuevo diseno para celular con botones tactiles, filtros legibles y Continuar viendo solo cuando hay progreso. Deteccion automatica de TV y celular con selector Automatico, TV o Celular en Mas > Modo de interfaz. Se conserva el diseno TV y las correcciones anteriores de navegacion y reproduccion.",
-  "sha256": "57ec141f848b9ec31c2430e01f77ebc83e9dd505d57b70c205eba7ae0a5a2f1f",
-  "sizeBytes": 31142460,
+  "versionCode": 471,
+  "versionName": "4.1.52",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.52/TLTVPlayer.apk",
+  "releaseNotes": "Nuevo diseño horizontal unificado para celular y TV en Inicio, En vivo, Deportes/PPV, Películas y Series. Menú lateral común con Actualizar contenido, categorías buscables y filtros legibles. Mejoras de foco y retorno entre menú y contenido; Inicio conserva la posición de las filas. Sin videos de fondo ni nuevos servicios de descarga. Los estilos anteriores siguen disponibles en Personalizar.",
+  "sha256": "199e21c49e8bd7fbb2ffb2082d4dff8c26a6cd63067fea3aa1d9088f84e2aeff",
+  "sizeBytes": 31191631,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
