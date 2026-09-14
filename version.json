@@ -1,9 +1,9 @@
 {
-  "versionCode": 471,
-  "versionName": "4.1.52",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.52/TLTVPlayer.apk",
-  "releaseNotes": "Nuevo diseño horizontal unificado para celular y TV en Inicio, En vivo, Deportes/PPV, Películas y Series. Menú lateral común con Actualizar contenido, categorías buscables y filtros legibles. Mejoras de foco y retorno entre menú y contenido; Inicio conserva la posición de las filas. Sin videos de fondo ni nuevos servicios de descarga. Los estilos anteriores siguen disponibles en Personalizar.",
-  "sha256": "199e21c49e8bd7fbb2ffb2082d4dff8c26a6cd63067fea3aa1d9088f84e2aeff",
-  "sizeBytes": 31191631,
+  "versionCode": 472,
+  "versionName": "4.1.53",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.53/TLTVPlayer.apk",
+  "releaseNotes": "En vivo renovado con categorías verticales buscables a la izquierda, vista previa y canales en una fila horizontal. Menú principal superior para Inicio, Buscar, En vivo, Deportes, Películas, Series y Más, con Actualizar contenido accesible. Navegación con control y toque mejorada; se conservan la búsqueda y el canal al regresar. Favoritos, Guía y Detalles disponibles. Sin reproducción automática al mover el foco. Los estilos anteriores siguen disponibles.",
+  "sha256": "a42d2fffd2a5c74fe1e3b60b849bd013c2faa75cd753122da8ac796ac8ef707a",
+  "sizeBytes": 31207999,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
