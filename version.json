@@ -1,9 +1,9 @@
 {
-  "versionCode": 473,
-  "versionName": "4.1.54",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.54/TLTVPlayer.apk",
-  "releaseNotes": "Corazón accesible con control y toque para agregar o quitar favoritos en Canales y Deportes/PPV. Mantén OK o pulsado el canal para abrir Favoritos, Ocultar y Bloquear. Mejoras de foco y retorno al cerrar menús o quitar favoritos. Corrección de pulsaciones largas para evitar reproducción accidental. En eventos con varias señales se guarda como favorito el canal elegido.",
-  "sha256": "738b4f1c433cab71a3f2d48dd6d18a7930ff6f95834c377d7dd9bfae750fbbd1",
-  "sizeBytes": 31240767,
+  "versionCode": 474,
+  "versionName": "4.1.55",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.55/TLTVPlayer.apk",
+  "releaseNotes": "Nueva lista vertical en TV en vivo y Deportes/PPV: categorias a la izquierda, canales al centro e informacion a la derecha. Mejor navegacion con control y toque, corazon de favoritos accesible y opciones al mantener OK. Conserva busqueda, canal y posicion al regresar, sin reproducir al mover el foco.",
+  "sha256": "7fcd746f9b16a39b35c319d9d8d456a74d75937312035e8c473051ff002ffe8b",
+  "sizeBytes": 31257159,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
