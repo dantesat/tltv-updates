@@ -1,9 +1,9 @@
 {
-  "versionCode": 476,
-  "versionName": "4.1.57",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.57/TLTVPlayer.apk",
-  "releaseNotes": "Mejoras de validacion de cuentas y restauracion segura de sesiones. Las respuestas antiguas no modifican sesiones nuevas. Cancelacion efectiva de solicitudes de catalogo y ajustes de foco en Inicio y Busqueda.",
-  "sha256": "a34e1eeb4d84e2f5725842ae43a472f02a819be4b671cee17a9e30fbda5e772b",
-  "sizeBytes": 31273529,
+  "versionCode": 478,
+  "versionName": "4.1.59",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.59/TLTVPlayer.apk",
+  "releaseNotes": "Recuperacion acotada, diagnostico de reproduccion, continuar episodios, agrupacion de senales, busqueda conservada y guia inicial.",
+  "sha256": "9c6bbb510ae3e53758d339de1e3a7d6a77bc1f5b55837d12b5b8a02ed776e2d6",
+  "sizeBytes": 31355470,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
