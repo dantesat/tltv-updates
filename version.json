@@ -1,9 +1,9 @@
 {
-  "versionCode": 478,
-  "versionName": "4.1.59",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.59/TLTVPlayer.apk",
-  "releaseNotes": "Recuperacion acotada, diagnostico de reproduccion, continuar episodios, agrupacion de senales, busqueda conservada y guia inicial.",
-  "sha256": "9c6bbb510ae3e53758d339de1e3a7d6a77bc1f5b55837d12b5b8a02ed776e2d6",
-  "sizeBytes": 31355470,
+  "versionCode": 479,
+  "versionName": "4.1.60",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.60/TLTVPlayer.apk",
+  "releaseNotes": "Mejoras en la guia EPG, vista previa y foco del control. Navegacion y deportes mas ordenados. Recuperacion limitada del mini-reproductor ante interrupciones temporales, sin repetir rechazos de autorizacion.",
+  "sha256": "6a81873a9f72063dd42946fb084660b3bc78dd53d60d1e0e6a396771e07c1253",
+  "sizeBytes": 31371834,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
