@@ -1,9 +1,9 @@
 {
-  "versionCode": 480,
-  "versionName": "4.1.61",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.61/TLTVPlayer.apk",
-  "releaseNotes": "Guia EPG al seleccionar canales, foco y regreso al mini mejorados. Busqueda de peliculas mas precisa, agrupacion mas rapida, favoritos sincronizados y refresco de catalogo conservando el canal. Saltos de 15 segundos corregidos.",
-  "sha256": "83b9f4d64f980dd8123f0f26f79db29bd7f28b4c2e6ae50058fb264dc836e11b",
-  "sizeBytes": 31388235,
+  "versionCode": 481,
+  "versionName": "4.1.62",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.62/TLTVPlayer.apk",
+  "releaseNotes": "Regreso a la misma pelicula y fila del catalogo; foco y controles de pausa, avance y retroceso corregidos. Detalles y refresco EPG mantienen el foco. Mejor agrupacion de señales deportivas y menos recargas de imagenes. La disponibilidad de la guia depende de la fuente; Space sigue pendiente.",
+  "sha256": "086c02756da0d2ed158634f400696faf5fbf527a7fcb301d9b572a7428e9e0f2",
+  "sizeBytes": 31404611,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
