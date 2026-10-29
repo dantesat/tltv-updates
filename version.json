@@ -1,9 +1,9 @@
 {
-  "versionCode": 482,
-  "versionName": "4.1.63",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.63/TLTVPlayer.apk",
-  "releaseNotes": "Mejoras en Peliculas y Series: filtros de anio dinamicos, favoritos con corazon u OK sostenido y conservacion de busqueda, columna y posicion al regresar. Desplazamiento mas directo en equipos de recursos limitados. Correccion del foco al abrir fichas de Series y al quitar favoritos.",
-  "sha256": "14ef6b3b8d856b0eebee02d32bc6b5c50b501785e8f9665c0842d35a06398e2b",
-  "sizeBytes": 31437374,
+  "versionCode": 483,
+  "versionName": "4.1.64",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.64/TLTVPlayer.apk",
+  "releaseNotes": "Mejoras de reconexion en canales en vivo: cierre del transporte antes de reabrir, reintentos con limite y mejor conservacion de pausas y cambios de pantalla. Los errores de autorizacion requieren revision sin reintentos automaticos. Reproduccion de peliculas y series conservada.",
+  "sha256": "06bc12c6be38b70d7e7a0f3d2f9df28efd61e80565811da94a7779cdd830efdf",
+  "sizeBytes": 31355325,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
