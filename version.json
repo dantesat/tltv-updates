@@ -1,9 +1,9 @@
 {
-  "versionCode": 483,
-  "versionName": "4.1.64",
-  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.64/TLTVPlayer.apk",
-  "releaseNotes": "Mejoras de reconexion en canales en vivo: cierre del transporte antes de reabrir, reintentos con limite y mejor conservacion de pausas y cambios de pantalla. Los errores de autorizacion requieren revision sin reintentos automaticos. Reproduccion de peliculas y series conservada.",
-  "sha256": "06bc12c6be38b70d7e7a0f3d2f9df28efd61e80565811da94a7779cdd830efdf",
-  "sizeBytes": 31355325,
+  "versionCode": 489,
+  "versionName": "4.1.65-qa6",
+  "downloadUrl": "https://github.com/dantesat/tltv-updates/releases/download/v4.1.65-qa6/TLTVPlayer.apk",
+  "releaseNotes": "Mejoras en inicio de sesion, manejo de sesiones y catalogos de peliculas y series. Ajustes de recuperacion de solicitudes de lectura y conteo de episodios. Conserva las mejoras de reconexion en vivo y el tratamiento de errores de autorizacion.",
+  "sha256": "08608fa62e379660caaafd8de5d0843fe679a3c7a53d10cd46dc45beaba76e2f",
+  "sizeBytes": 31486543,
   "certSha256": "e082f7a38b43b17a3c2bc99683d71e121d776dfa2983235074d9b3ca8b4402c6"
 }
